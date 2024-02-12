@@ -1,3 +1,2 @@
-## Bienvenido a mí Pagina Informativa
+## Bienvenido a mí pagina informativa
 
-Hola puedes ver toda mi experiencia [aquí](https://olopezdeveloper.github.io) o puedes hacer un fork y crear tu propio currículo.
